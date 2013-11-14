@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Game.png</key>
+	<false/>
+	<key>arrow.png</key>
+	<false/>
+	<key>yes.png</key>
+	<false/>
+	<key>no.png</key>
+	<false/>
+	<key>hp.png</key>
+	<false/>
+	<key>Pause.png</key>
+	<false/>
+	<key>joystick_area.png</key>
+	<false/>
+	<key>joystick_tap.png</key>
+	<false/>
+	<key>attack_button.png</key>
+	<false/>
+	<key>large_asteroid.png</key>
+	<false/>
+	<key>small_asteroid.png</key>
+	<false/>
+	<key>middle_asteroid.png</key>
+	<false/>
+	<key>alphabet.png</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+//
+//  Constants.h
+//  OpenGLTest
+//
+//  Created by Наталья Дидковская on 13.09.13.
+//  Copyright (c) 2013 Andrey Samokhvalov. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+/* Game */
+FOUNDATION_EXPORT NSString *const askSMALL_ASTEROID_IMAGE_BACKGROUND;
+FOUNDATION_EXPORT NSString *const askMIDDLE_ASTEROID_IMAGE_BACKGROUND;
+FOUNDATION_EXPORT NSString *const askLARGE_ASTEROID_IMAGE_BACKGROUND;
+
+FOUNDATION_EXPORT NSString *const askFIREJET_IMAGE;
+FOUNDATION_EXPORT NSString *const askPLANE_IMAGE;
+FOUNDATION_EXPORT NSString *const askHP_IMAGE;
+
+
+/* Buttons */
+FOUNDATION_EXPORT NSString *const askATTACK_BUTTON_IMAGE;
+FOUNDATION_EXPORT NSString *const askJOISTICK_AREA_IMAGE;
+FOUNDATION_EXPORT NSString *const askJOISTICK_TAP_IMAGE;
+FOUNDATION_EXPORT NSString *const askARROW_IMAGE;
+
+/* Menu */
+FOUNDATION_EXPORT NSString *const askGAME_BUTTON_IMAGE;
+FOUNDATION_EXPORT NSString *const askPAUSE_BUTTON_IMAGE;
+FOUNDATION_EXPORT NSString *const askREPEAT_BUTTON_IMAGE;
+
+
+
+/* Groups */
+FOUNDATION_EXPORT NSString *const askENEMIES;
+FOUNDATION_EXPORT NSString *const askPLANE;
+FOUNDATION_EXPORT NSString *const askASTEROIDS;
+FOUNDATION_EXPORT NSString *const askROCKET;
+
+FOUNDATION_EXPORT NSString *const askLETTERS;
+
+///* Begin Points */
+//
+//FOUNDATION_EXPORT CGPoint const askPLANE_POSITION;
+//FOUNDATION_EXPORT CGPoint const askPAUSE_BUTTON_POSITION;
+//FOUNDATION_EXPORT CGPoint const askATTACK_BUTTON_POSITION;
