@@ -1,8 +1,26 @@
 Asteroids
 ========
 
+### Purpose
+- Just for fun
 
-This game is made using only the OpenGL ES 2.0 without the using of such libraries as cocos2d and GLKit. 
-The aim of this study was to learn the basics of OpenGL ES 2.0.
+### What is point?
+- learn basic of OpenGL ES 2.0
+	- shaders
+- learn basic design patterns like:
+	- Composite pattern
+	- State Machine pattern
+	- Singleton pattern
+	- Factory method pattern
+	- and others...
+- learn basics of alghoritms:
+	- Reduction of computations with applying hash functions.
+	- Binary packing alghoritms.
+	- Gilbert–Johnson–Keerthi distance.
+- create analogy of Cocos2D.
+- create game from own primitievs.
 
-1. Download the project and run Asteroids.xcodeproj
+![Schema](docs/1.png)
+![Schema](docs/2.png)
+![Schema](docs/3.png)
+![Schema](docs/4.png)
