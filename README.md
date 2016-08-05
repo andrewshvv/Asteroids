@@ -6,7 +6,7 @@ Asteroids
 
 ## What is the point?
 - learn basic of OpenGL ES 2.0
-	- Shaders
+	- [Shaders](https://www.raywenderlich.com/70208/opengl-es-pixel-shaders-tutorial)
 - learn basic of XCode tools and IOS developemnt:
 	- [XCode OpenGL debug tools](https://developer.apple.com/library/ios/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/ToolsOverview/ToolsOverview.html)
 	- [XCode time measure tools](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/MeasuringPerformance.html)
