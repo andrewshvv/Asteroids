@@ -1,24 +1,28 @@
 Asteroids
 ========
 
-### Purpose
-- Just for fun
+## Purpose
+- Just for fun :)
 
-### What is point?
+## What is the point?
 - learn basic of OpenGL ES 2.0
-	- shaders
+	- Shaders
+- learn basic of XCode tools and IOS developemnt:
+	- [XCode OpenGL debug tools](https://developer.apple.com/library/ios/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/ToolsOverview/ToolsOverview.html)
+	- [XCode time measure tools](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/MeasuringPerformance.html)
+	- [XCode memory leaks tools](https://developer.apple.com/library/mac/documentation/Performance/Conceptual/ManagingMemory/Articles/FindingLeaks.html)
 - learn basic design patterns like:
-	- Composite pattern
-	- State Machine pattern
-	- Singleton pattern
-	- Factory method pattern
+	- [Composite pattern](https://en.wikipedia.org/wiki/Composite_pattern)
+	- [State Machine pattern](https://en.wikipedia.org/wiki/State_pattern)
+	- [Singleton pattern](https://en.wikipedia.org/wiki/Singleton_pattern)
+	- [Factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
 	- and others...
 - learn basics of alghoritms:
-	- Reduction of computations with applying hash functions.
-	- Binary packing alghoritms.
-	- Gilbert–Johnson–Keerthi distance.
-- create analogy of Cocos2D.
-- create game from own primitievs.
+	- [Reduction of collision computations with applying hash functions](http://matthias-mueller-fischer.ch/publications/tetraederCollision.pdf)
+	- [Binary packing alghoritms](http://codeincomplete.com/posts/2011/5/7/bin_packing/)
+	- [Gilbert–Johnson–Keerthi distance](https://en.wikipedia.org/wiki/Gilbert%E2%80%93Johnson%E2%80%93Keerthi_distance_algorithm)
+- create analogy of [Cocos2D](http://www.cocos2d-x.org/)
+- create game from own primitievs
 
 ![Schema](docs/1.png)
 ![Schema](docs/2.png)
